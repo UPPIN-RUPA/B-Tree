@@ -35,11 +35,3 @@ nextEntry: Retrieves the next entry in the B+ Tree scan.
 
 closeTreeScan: Closes a B+ Tree scan handle.
 
-**Contribution**
-Manju: Implemented all functions except createNode, createBPTreeNode, and printTree.
-
-Rupa: Implemented createNode.
-
-Vanaja: Implemented createBPTreeNode.
-
-Mohit: Implemented printTree.
